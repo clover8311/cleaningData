@@ -9,4 +9,4 @@ The steps of this project
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 
-The run_analysis.R file works on the raw data and will generate tidy.csv output. The R code file requires reshape2 library.
+The run_analysis.R file works on the raw data and will generate tidy.csv output. The R code file requires reshape2 library. The raw files include test, train and some feature txt file in provided by this project.
